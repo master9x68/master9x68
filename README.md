@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @master9x68
+- tele:@cancerbestpro
 im update for bot moonbix
 # MoonBix-Bot
 ![badge](https://img.shields.io/badge/version-1.0-blue)
