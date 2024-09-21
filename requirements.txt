@@ -1,0 +1,6 @@
+colorama
+requests
+datetime
+http
+requests_html
+asyncio
